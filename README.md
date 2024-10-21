@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BrainTheBest5
+- 👋 Hi, I’m La Programmatrice Verde!
 - 👀 I’m interested in retro tech, restoration of broken tech and giving a new life to ewaste, other than programming useful tools and utilities for new and retro hardware
 - 🌱 I’m currently learning how to write some code
-- 💞️ I’m looking to collaborate on porting linux to ancient platforms
+- 💞️ I’m looking to collaborate on porting linux to ancient and weird platforms, having a commit in the mainline kernel, reverse engineer a childhood freeware in Rust
 - 📫 How to reach me: cykablyatcomunism@libero.it
 
 <!---
